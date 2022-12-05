@@ -1,0 +1,40 @@
+html, body {
+    height: 100%; 
+    width: 950px;
+    margin: 0;
+}
+
+header{
+    background-color: lightskyblue;
+    min-height: 100px;
+    width: 100%;
+}
+
+main {
+    height: 100%;
+}
+
+.container {
+    height: 600px;
+    width: 100%;
+}
+
+.topbar {
+    background-color: pink;
+    height: 80px;
+    width: 100%;
+}
+
+.content{
+    background-color: lightgreen;
+    float: left;
+    height: 670px;
+    width: 750px;
+}
+
+.sidebar{
+    background-color: green;
+    float: right;
+    height: 670px;
+    width: 200px;
+}
